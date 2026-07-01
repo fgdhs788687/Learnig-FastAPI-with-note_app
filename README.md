@@ -7,6 +7,9 @@ sdk: docker
 pinned: false
 ---
 
+## Live Demo
+
+[Try it on Hugging Face Spaces](https://faizalrazza-learnig-fastapi-with-note-app.hf.space/docs)
 
 # FastAPI Learning — Notes App
 
