@@ -1,3 +1,13 @@
+---
+title: Learning FastAPI with Note App
+emoji: 📝
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
+
 # FastAPI Learning — Notes App
 
 A complete learning journal covering everything built and discussed during this session — from Python concepts to a fully working FastAPI Notes API with SQLite database.
